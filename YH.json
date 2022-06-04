@@ -1,18 +1,18 @@
 {
-//2022.6.2-16:03
-//更新内容：调整文件路径；新增乐猪TV（XPMac）。
+//20220604-1640
+//更新内容：调整文件路径。
 
 //GitHub@YuanHsing 缝合规则精简自用版
 
 //第一部分——jar爬虫：取自YH  
 # spider
 // 01.🐼 (非官方) 缝合jar
-"spider":"https://yoyodadada.github.io/xp/custom_spider.jar",
+"spider":"https://yoyodadada.github.io/mystv/xp/custom_spider.jar",
 
-//第二部分——数据源：取自YH
+//第二部1/2分——数据源：取自YH
 "sites":[
 ## 01.🐼 (非官方) 缝合接口
-## --> spider 改 "spider":"https://yoyodadada.github.io/xp/custom_spider.jar",
+## --> spider 改 "spider":"https://yoyodadada.github.io/mystv/xp/custom_spider.jar",
 {"key":"csp_CZSPP","name":"🐼厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Buka","name":"🐼真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
 //{"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1,"ext":""},
@@ -23,20 +23,20 @@
 {"key":"csp_Zxzj","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Cokemv","name":"🐼Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Fantuan","name":"🐼饭团(SP)","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key":"csp_xpath_Hdmoli","name":"🐼Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yoyodadada.github.io/xp/hdmoli.json"},
+{"key":"csp_xpath_Hdmoli","name":"🐼Hdmoli(XPF)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yoyodadada.github.io/mystv/xp/hdmoli.json"},
 
-//第二+部分——固定数据源
-{"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yoyodadada.github.io/xp/zxzj2.json"},
-//{"key":"csp_xpath_auete","name":"Auete影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://yoyodadada.github.io/xp/auete.json"},
-{"key":"csp_xpath_libv","name":"Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yoyodadada.github.io/xp/libv.json"},
-{"key":"csp_xpath_cokemv","name":"Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yoyodadada.github.io/xp/cokemv.json"},
-{"key":"csp_xpath_tvci","name":"大师兄(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yoyodadada.github.io/xp/tvci.json"},
-{"key":"csp_xpath_Gimy","name":"GimyTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yoyodadada.github.io/xp/Gimy2.json"},
-{"key":"csp_xpath_jpys","name":"极品影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yoyodadada.github.io/xp/jpys.json"},
-{"key":"csp_xpath_czspp","name":"厂长资源(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/xp/czspp.json"},
-{"key":"csp_XPath_bidiys","name":"哔嘀影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/xp/bidiys2.json"},
-{"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/xp/lezhutv.json"},
-{"key":"csp_xpath_pianku","name":"片库(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/xp/pianku.json"},
+//第二部分2/2——固定数据源
+{"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yoyodadada.github.io/mystv/xp/zxzj2.json"},
+//{"key":"csp_xpath_auete","name":"Auete影视(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://yoyodadada.github.io/mystv/xp/auete.json"},
+{"key":"csp_xpath_libv","name":"Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yoyodadada.github.io/mystv/xp/libv.json"},
+{"key":"csp_xpath_cokemv","name":"Cokemv(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yoyodadada.github.io/mystv/xp/cokemv.json"},
+{"key":"csp_xpath_tvci","name":"大师兄(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yoyodadada.github.io/mystv/xp/tvci.json"},
+{"key":"csp_xpath_Gimy","name":"GimyTV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yoyodadada.github.io/mystv/xp/Gimy2.json"},
+{"key":"csp_xpath_jpys","name":"极品影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yoyodadada.github.io/mystv/xp/jpys.json"},
+{"key":"csp_xpath_czspp","name":"厂长资源(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/mystv/xp/czspp.json"},
+{"key":"csp_XPath_bidiys","name":"哔嘀影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/mystv/xp/bidiys2.json"},
+{"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/mystv/xp/lezhutv.json"},
+{"key":"csp_xpath_pianku","name":"片库(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/mystv/xp/pianku.json"},
 //{"key":"csp_Auete","name":"Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"cokemv_spider2","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":0,"filterable":1},
 //{"key":"csp_Buka","name":"真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
