@@ -1,4 +1,6 @@
 {
+//20220604-1644
+//更新内容：调整文件路径。
 //2022.5.26小明最后一版明文原版，改jar地址。
 
   "sites": [
@@ -396,5 +398,5 @@
 "cms.qdwght.com"
 ],
   "wallpaper": "",
-  "spider": "https://yoyodadada.github.io/xm/xm.jar"
+  "spider": "https://yoyodadada.github.io/mystv/xm/xm.jar"
 }
