@@ -1,5 +1,5 @@
 {
-//20220607-0242
+//20220607-0245
 //更新内容：调整站源及文件路径。
 
 //GitHub@YuanHsing 缝合小黄瓜规则精简自用版
@@ -46,7 +46,7 @@
 {"key":"csp_biubiu_极品影视","name":"🥒极品影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/OneClickRun/MeowXB/极品影视.json"},
 //{"key":"csp_biubiu_大师兄影视","name":"🥒大师兄影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yoyodadada.github.io/OneClickRun/MeowXB/大师兄影视.json"},
 
-//第二+部分——固定数据源
+//第二plus部分——固定数据源
 ## 结尾代码
 {"key":"csp_结尾代码","name":"结尾代码（勿选）","type":3,"api":"csp_结尾代码","searchable":0,"quickSearch":0,"filterable":0}
 ],
