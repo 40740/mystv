@@ -6,6 +6,12 @@
 
 ### 再次声明，以下链接不是接口！不是接口！不是接口！
 
+## GitHub@YuanHsing 公开接口代码:
+
+原文转自GitHub@YuanHsing 仅将GitHub文件做代理加速，无其他修改，所有文件均在GitHub@YuanHsing 仓库，时效不保，不定时更新，建议各位自行留存相关文件。
+
+https://yoyodadada.github.io/mystv/mystv.zip
+
 ## GitHub@YuanHsing 缝合小黄瓜规则精简自用版代码文件:
 
 https://yoyodadada.github.io/mystv/gua.zip
