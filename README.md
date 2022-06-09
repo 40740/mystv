@@ -2,16 +2,18 @@
 
 ### https://yoyodadada.github.io/mystv
 
-### 缝合来的资源就不加密了，自己偷偷用就好，如果发现有人拿出去卖钱，立刻删库！欢迎举报，联系：https://t.me/yoyodadada
+猫影视加了新规则，每周5k ip的接口会被封，本项目不再直接提供接口，以后接口将以压缩包的形式上传，各位下载压缩包，解压后得到json文件，你可以将json内容复制到你自己的网络剪切板，也可以将json文件上传到你自己的空间或者仓库。
 
-## GitHub@YuanHsing 缝合小黄瓜规则精简自用版:
+### 再次声明，以下链接不是接口！不是接口！不是接口！
 
-https://yoyodadada.github.io/mystv/gua.json
+## GitHub@YuanHsing 缝合小黄瓜规则精简自用版代码文件:
 
-## GitHub@YuanHsing 缝合规则精简自用版:
+https://yoyodadada.github.io/mystv/gua.zip
 
-https://yoyodadada.github.io/mystv/YH.json
+## GitHub@YuanHsing 缝合规则精简自用版代码文件:
 
-## 小明最后一版明文原版，改jar地址：
+https://yoyodadada.github.io/mystv/YH.zip
 
-https://yoyodadada.github.io/mystv/xm.json
+## 小明最后一版明文原版，改jar地址代码文件：
+
+https://yoyodadada.github.io/mystv/xm.zip
